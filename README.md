@@ -1,1 +1,1 @@
-(./new.gif)
+![New GIF](./new.gif)
