@@ -12,4 +12,6 @@ Offensive Security Analyst
 ---
 [![](https://visitcount.itsvg.in/api?id=offensiveevil&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![XSS SVG](./xss2.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
