@@ -1,1 +1,1 @@
-![New GIF](./new.gif)
+![xss2.svg](./xss2.svg)
